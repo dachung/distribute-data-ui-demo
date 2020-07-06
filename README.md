@@ -1,6 +1,4 @@
-# matching-demo-ui
-
-> Matching Demo UI
+# Demo UI of distributing data 
 
 ## Build Setup
 
@@ -19,4 +17,9 @@ $ yarn start
 $ yarn generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+For detailed explanation on how things work, check out [Nuxt.js docs](https://typescript.nuxtjs.org/).
+
+# TODO:
+- Graph will draw vertically when devices are mobile
+- Improve graph display animations when distributing a data
+- Add more type of distributing
